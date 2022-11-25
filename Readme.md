@@ -1,15 +1,4 @@
----
-title: "Módulo Efectos"
 
-toc:
-  depth_from: 1
-  depth_to: 4
-  ordered: false
-  ignoreLink: true
-html:
-  embed_local_images: true
-  embed_svg: true
----
 
 ## Módulo efectos:
 
