@@ -7,6 +7,7 @@ Esta librería de efectos se debe ejecutar en el sistema de desarrollo FM4-176L-
 Incluye los ficheros que contienen las funciones de acceso al hardware (HAL).
  
 En HAL_FM4_v2\includes se incluyen las cabeceras (.h)
+
 En HAL_FM4_v2\src los archivos fuente (.c)
 
 ### include
