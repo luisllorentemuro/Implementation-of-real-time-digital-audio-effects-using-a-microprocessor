@@ -9,8 +9,8 @@ Incluye los ficheros que contienen las funciones de acceso al hardware (HAL).
 En HAL_FM4_v2\includes se incluyen las cabeceras (.h)
 En HAL_FM4_v2\src los archivos fuente (.c)
 
-### include:
+### include
 Contiene un .h genérico para todos los efectos (efectos.h) y un .h para cada uno de los efectos que se han implementado. 
 
-### src:
+### src
 Contiene el .c genérico para todos los efectos (efectos.c), así como el .c y .h privado para cada uno de los efectos.
